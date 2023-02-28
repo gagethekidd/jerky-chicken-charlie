@@ -36,7 +36,7 @@ $(function () {
       game_msg = "Too nice";
       $("img").attr(
         "src",
-        "https://i.pinimg.com/236x/d0/8e/aa/d08eaa357b0fb8e59c7c46beeaed6c53--morgan-freeman-internet.jpg"
+        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eonline.com%2Fnews%2F774181%2F10-best-crying-lebron-james-memes-that-are-currently-breaking-the-internet&psig=AOvVaw3sBuv-1QtHMvl6DnOWO50X&ust=1677653284348000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCODOzdLPt_0CFQAAAAAdAAAAABAE"
       );
     }
 
