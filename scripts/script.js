@@ -36,7 +36,7 @@ $(function () {
       game_msg = "Too nice";
       $("img").attr(
         "src",
-        "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eonline.com%2Fnews%2F774181%2F10-best-crying-lebron-james-memes-that-are-currently-breaking-the-internet&psig=AOvVaw3sBuv-1QtHMvl6DnOWO50X&ust=1677653284348000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCODOzdLPt_0CFQAAAAAdAAAAABAE"
+        "https://akns-images.eonline.com/eol_images/Entire_Site/2016520/rs_1024x759-160620132133-1024.LeBron-James-NBA-Winner.ms.062016.jpg?fit=around%7C1024:759&output-quality=90&crop=1024:759;center,top"
       );
     }
 
